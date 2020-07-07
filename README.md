@@ -1,2 +1,2 @@
 # form-validation
-Created with CodeSandbox
+using html, css and javascript
