@@ -37,7 +37,6 @@ function checkRequired(inputArr) {
     }
   });
 }
-
 //check the length of the input
 
 function checkLength(input, min, max) {
